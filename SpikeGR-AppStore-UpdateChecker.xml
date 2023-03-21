@@ -2,6 +2,6 @@
 <item>
   <version>0.0.2.0</version>
   <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>hiii</changelog>
+  <changelog>https://github.com/SpikeGR-YT/SpikeGR-AppStore-Updater/raw/main/Changelog.txt</changelog>
   <mandatory>false</mandatory>
 </item>
