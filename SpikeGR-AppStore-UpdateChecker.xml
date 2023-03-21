@@ -2,6 +2,6 @@
 <item>
   <version>0.0.2.0</version>
   <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <changelog>https://raw.githubusercontent.com/SpikeGR-YT/SpikeGR-AppStore-Updater/main/Changelog?token=GHSAT0AAAAAACALMS46T7NGJ2RGOO5ADCR4ZAZ723Q</changelog>
   <mandatory>false</mandatory>
 </item>
