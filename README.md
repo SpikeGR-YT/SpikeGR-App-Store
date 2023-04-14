@@ -19,3 +19,17 @@ Simply launch the App Store and there will be a popup saying that an update is a
 [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 
  - All programs and scripts inside the SpikeGR App Store are all open source on the dev's GitHub page, but the App Store itself is not open source. We do not have plans to make it open source for now.
+
+## Our Social Media
+
+ - YouTube:
+[https://youtube.com/spikegreece](https://youtube.com/spikegreece)
+
+ - Instagram:
+[https://instagram.com/spikegr_official](https://instagram.com/spikegr_official)
+
+ - TikTok:
+[https://tiktok.com/@spikegr_yt](https://tiktok.com/@spikegr_yt)
+
+ - Website:
+[https://spikegr.cf](https://spikegr.cf/)
