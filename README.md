@@ -13,4 +13,7 @@ Simply launch the App Store and there will be a popup saying that an update is a
 
 ## Things to note:
 
-Keep in mind this is just a Pre-Alpha version, it was released to the public so that the developer can fix bugs, issues etc.
+ - Keep in mind this is just a Pre-Alpha version, it was released to the public so that the developer can fix bugs, issues etc.
+ 
+ - .NET Framework 4.8.1 Runtime is required in order to run SpikeGR App Store.  
+[https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
