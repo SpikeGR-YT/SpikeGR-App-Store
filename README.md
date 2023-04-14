@@ -5,7 +5,7 @@
 
 SpikeGR App Store contains all the programs and scripts created by SpikeGR, all in one place!
 -----
-#How to Update the SpikeGR App Store to the latest version?
+# How to Update the SpikeGR App Store to the latest version?
 
 Simply launch the App Store and there will be a popup saying that an update is available.
 -----
