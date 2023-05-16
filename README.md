@@ -1,3 +1,4 @@
+
 # SpikeGR - App Store
 
 This is the Official GitHub Repository for the SpikeGR App Store.
@@ -10,6 +11,19 @@ SpikeGR App Store contains all the programs and scripts created by SpikeGR, all 
 ## How to Update the SpikeGR App Store to the latest version?
 
 Simply launch the App Store and there will be a popup saying that an update is available.
+
+## Which apps are available?
+
+As of 16/5/2023 the SpikeGR App Store supports:
+
+ - One Click Battery Saver 
+ - Windows Free Activator
+ - WiFi Password Viewer
+ 
+We recently added the "Network Optimizer" into the App Store but it's not supported yet.
+
+## Are all apps up-to-date?
+Whenever there is an update for an app, the SpikeGR App Store also gets updated within 1-5 days to ensure everything is up-to-date.
 
 ## Things to note:
 
