@@ -1,5 +1,5 @@
 
-# SpikeGR - App Store V0.1.2.0 Pre-Alpha
+# SpikeGR - App Store V0.2.0.0 Pre-Alpha
 
 This is the Official GitHub Repository for the SpikeGR App Store.
 
@@ -16,11 +16,10 @@ Simply launch the App Store and there will be a popup saying that an update is a
 
 As of 16/5/2023 the SpikeGR App Store supports:
 
- - One Click Battery Saver 
- - Windows Free Activator
- - WiFi Password Viewer
- 
-We recently added the "Network Optimizer" into the App Store but it's not supported yet.
+ - One Click Battery Saver V1.0.7
+ - Windows Free Activator V4.0
+ - WiFi Password Viewer V2.3
+ - Network Optimizer V0.1
 
 ## Are all apps up-to-date?
 Whenever there is an update for an app, the SpikeGR App Store also gets updated within 1-5 days to ensure everything is up-to-date.
