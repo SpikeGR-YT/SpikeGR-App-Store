@@ -14,7 +14,7 @@ Simply launch the App Store and there will be a popup saying that an update is a
 
 ## Which apps are available?
 
-As of 16/5/2023 the SpikeGR App Store supports:
+SpikeGR App Store currently supports:
 
  - One Click Battery Saver V1.0.7
  - Windows Free Activator V4.0
