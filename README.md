@@ -1,4 +1,5 @@
 
+
 # SpikeGR - App Store Pre-Alpha
 
 This is the Official GitHub Repository for the SpikeGR App Store.
@@ -20,6 +21,10 @@ SpikeGR App Store currently supports:
  - Windows Free Activator V4.0
  - WiFi Password Viewer V2.3
  - Network Optimizer V0.1
+ 
+We also plan to add support for the following scripts:
+
+ - Windows Corruption Check Pack
 
 ## Are all apps up-to-date?
 Whenever there is an update for an app, the SpikeGR App Store also gets updated within 1-5 days to ensure everything is up-to-date.
@@ -28,7 +33,7 @@ Whenever there is an update for an app, the SpikeGR App Store also gets updated 
 
  - Keep in mind this is just a Pre-Alpha version, it was released to the public so that the developer can fix bugs, issues etc.
  
- - .NET Framework 4.8.1 Runtime is required in order to run SpikeGR App Store.  
+ - .NET Framework 4.8.1 Runtime is required in order to run the SpikeGR App Store.  
 [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 
  - All programs and scripts inside the SpikeGR App Store are all open source on the dev's GitHub page, but the App Store itself is not open source. We do not have plans to make it open source for now.
