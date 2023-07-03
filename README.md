@@ -8,7 +8,7 @@ This is the Official GitHub Repository for the SpikeGR App Store.
 
 Due to technical issues the development of SpikeGR App Store has been temporarily stopped.
 
-####################
+------------------------
 
 ## What is the SpikeGR App Store?
 
