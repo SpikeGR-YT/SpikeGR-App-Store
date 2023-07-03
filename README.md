@@ -39,7 +39,7 @@ Whenever there is an update for an app, the SpikeGR App Store also gets updated 
  - .NET Framework 4.8.1 Runtime is required in order to run the SpikeGR App Store.  
 [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 
- - All programs and scripts inside the SpikeGR App Store are all open source on the dev's GitHub page, but the App Store itself is not open source. We do not have plans to make it open source for now.
+ - All programs and scripts inside the SpikeGR App Store are all open source on the dev's GitHub page, but the App Store itself is not open source yet.
 
 ## Our Social Media
 
