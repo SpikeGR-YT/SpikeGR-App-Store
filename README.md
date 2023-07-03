@@ -8,6 +8,8 @@ This is the Official GitHub Repository for the SpikeGR App Store.
 
 Due to technical issues the development of SpikeGR App Store has been temporarily stopped.
 
+####################
+
 ## What is the SpikeGR App Store?
 
 SpikeGR App Store contains all the programs and scripts created by SpikeGR, all in one place!
