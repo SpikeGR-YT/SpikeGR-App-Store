@@ -6,7 +6,7 @@ This is the Official GitHub Repository for the SpikeGR App Store.
 
 # Rewrite in Progress
 
-This application is currently beinng rewritten, there will be no updates for the Main Release Channel untill we finish.
+This application is currently being rewritten, there will be no updates for the Main Release Channel untill we finish.
 
 ------------------------
 
