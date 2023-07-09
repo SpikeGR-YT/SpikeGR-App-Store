@@ -4,9 +4,9 @@
 
 This is the Official GitHub Repository for the SpikeGR App Store.
 
-# Development Temporarily Stopped
+# Rewrite in Progress
 
-Due to technical issues the development of SpikeGR App Store has been temporarily stopped.
+This application is currently beinng rewritten, there will be no updates for the Main Release Channel untill we finish.
 
 ------------------------
 
