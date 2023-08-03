@@ -11,10 +11,12 @@ This application is currently being rewritten, there will be no updates for the 
 ## What is the SpikeGR App Store?
 
 SpikeGR App Store contains all the programs and scripts created by SpikeGR, all in one place!
+
 ---
 ## How to Update the SpikeGR App Store to the latest version?
 
 Simply launch the App Store and there will be a popup saying that an update is available.
+
 ---
 ## Which apps are available?
 
@@ -31,6 +33,7 @@ We also plan to add support for the following scripts:
 ---
 ## Are all apps up-to-date?
 Whenever there is an update for an app, the SpikeGR App Store also gets updated within 1-5 days to ensure everything is up-to-date.
+
 ---
 ## Things to note:
 
