@@ -56,5 +56,5 @@ Whenever there is an update for an app, the SpikeGR App Store also gets updated 
 [https://tiktok.com/@spikegr_yt](https://tiktok.com/@spikegr_yt)
 
  - Website:
-https://spikegr-appstore.infinityfreeapp.com
+https://spikegr-appstore.us.to
 ---
