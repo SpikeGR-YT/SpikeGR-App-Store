@@ -1,11 +1,6 @@
 # SpikeGR - App Store Pre-Alpha
 
 This is the Official GitHub Repository for the SpikeGR App Store.
-
-# Rewrite in Progress
-
-This application is currently being rewritten, there will be no updates for the Main Release Channel untill we finish.
-
 ---
 
 ## What is the SpikeGR App Store?
@@ -23,7 +18,7 @@ Simply launch the App Store and there will be a popup saying that an update is a
 SpikeGR App Store currently supports:
 
  - One Click Battery Saver V1.0.7
- - Windows Free Activator V4.0
+ - Windows Free Activator V4.2
  - WiFi Password Viewer V2.3
  - Network Optimizer V0.1
  
@@ -37,7 +32,7 @@ Whenever there is an update for an app, the SpikeGR App Store also gets updated 
 ---
 ## Things to note:
 
- - Keep in mind this is just a Pre-Alpha version, it was released to the public so that the developer can fix bugs, issues etc.
+ - Keep in mind this is just a Beta version, it was released to the public so that the developer can fix bugs, issues etc.
  
  - .NET Framework 4.8.1 Runtime is required in order to run the SpikeGR App Store.  
 [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
