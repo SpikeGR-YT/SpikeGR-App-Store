@@ -1,4 +1,4 @@
-# SpikeGR - App Store Pre-Alpha
+# SpikeGR - App Store | BETA
 
 This is the Official GitHub Repository for the SpikeGR App Store.
 ---
