@@ -18,7 +18,7 @@ Simply launch the App Store and there will be a popup saying that an update is a
 SpikeGR App Store currently supports:
 
  - One Click Battery Saver V1.0.7
- - Windows Free Activator V4.2
+ - Windows Free Activator V5.0
  - WiFi Password Viewer V2.3
  - Network Optimizer V0.1
  
