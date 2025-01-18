@@ -8,8 +8,8 @@ SpikeGR App Store contains all the programs and scripts created by SpikeGR, all 
 SpikeGR App Store currently supports:
 
  - One Click Battery Saver V1.0.7
- - Windows Free Activator V5.0
- - WiFi Password Viewer V2.3
+ - Windows Free Activator V5.1
+ - WiFi Password Viewer V2.4
  - Network Optimizer V0.1
  - Windows Corruption Check Pack V1.0
 ## Things to note:
@@ -31,4 +31,3 @@ SpikeGR App Store currently supports:
 
  - Website:
 https://appstore.spikegr.com
-
