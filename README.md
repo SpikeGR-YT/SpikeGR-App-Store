@@ -11,10 +11,7 @@ SpikeGR App Store currently supports:
  - Windows Free Activator V5.0
  - WiFi Password Viewer V2.3
  - Network Optimizer V0.1
- 
-We also plan to add support for the following scripts:
-
- - Windows Corruption Check Pack
+ - Windows Corruption Check Pack V1.0
 ## Things to note:
 
  - SpikeGR App Store is still in Beta.
